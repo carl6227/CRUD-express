@@ -1,0 +1,32 @@
+{
+    "students": [
+        {
+            "username": "Masterleah",
+            "email": "Master@gmail.com",
+            "password": "password6465",
+            "course": "CCT",
+            "id": "855087"
+        },
+        {
+            "username": "patrick",
+            "email": "pat@gmail.com",
+            "password": "password646656",
+            "course": "CCT",
+            "id": "706330"
+        },
+        {
+            "username": "master russell",
+            "email": "rusell@gmail.com",
+            "password": "password6462656",
+            "course": "BSIT",
+            "id": "989660"
+        },
+        {
+            "username": "Master Brylle",
+            "email": "master@gmail.com",
+            "password": "password6465",
+            "course": "BSIT",
+            "id": "1009198"
+        }
+    ]
+}
